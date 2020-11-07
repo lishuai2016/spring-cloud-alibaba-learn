@@ -1,0 +1,12 @@
+/.idea
+/*.iml
+/demo-dubbo-nacos/*.iml
+/demo-dubbo-nacos/demo-dubbo-nacos-api/*.iml
+/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/*.iml
+/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/*.iml
+/c2c-social-govern/c2c-social-govern-report/*.iml
+/c2c-social-govern/c2c-social-govern-reviewer/*.iml
+/c2c-social-govern/c2c-social-govern-reviewer-api/*.iml
+/c2c-social-govern/c2c-social-govern-reward/*.iml
+/c2c-social-govern/c2c-social-govern-reward-api/*.iml
+/c2c-social-govern/*.iml
